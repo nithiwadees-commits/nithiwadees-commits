@@ -1,4 +1,4 @@
-<!-- Banner หรือข้อความทักทาย -->
+<!-- Banner หรือข้อความทักทาย  -->
 # สวัสดีค่ะ ดิฉัน นิธิวดี ศิริรจน์ฺ 👋
 
 Software Developer | Full-Stack Developer | AI Enthusiast | CS Student
