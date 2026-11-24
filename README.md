@@ -57,5 +57,6 @@ Software Developer | Full-Stack Developer | AI Enthusiast | CS Student
 ### 📊 สถิติบน GitHub (GitHub Stats)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ynithiwadees-commits&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithiwadees-commitslayout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nithiwadees-commits&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=nithiwadees-commits&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165" />
+</p>
