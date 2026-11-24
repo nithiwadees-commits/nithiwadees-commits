@@ -43,12 +43,12 @@ Software Developer | Full-Stack Developer | AI Enthusiast | CS Student
 ### 🚀 โปรเจกต์แนะนำ (Featured Projects)
 
 1. ** GeoTrack - ระบบติดตามตำแหน่งแบบเรียลไทม์
-  (https://github.com/nithiwadees-commits)**
+      (https://github.com/nithiwadees-commits)**
    - เว็บแอปพลิเคชันสำหรับปักหมุดและแชร์พิกัดสถานที่แบบเรียลไทม์
    - *Tech used: React, Node.js, Leaflet Map*
 
 3. ** RoleMatch - ระบบวิเคราะห์และจับคู่ตำแหน่งงานด้วย AI
-(https://github.com/nithiwadees-commits)**
+      (https://github.com/nithiwadees-commits)**
    - เครื่องมือช่วยวิเคราะห์เรซูเม่และแนะนำตำแหน่งงานที่เหมาะสมกับทักษะ
    - *Tech used: Python, FastAPI, OpenAI API*
 
