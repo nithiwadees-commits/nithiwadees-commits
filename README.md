@@ -1,19 +1,19 @@
 <!-- Banner หรือข้อความทักทาย -->
-# สวัสดีค่ะ ดิฉัน [นิธิวดี ศิริรจน์ฺ] 👋
+# สวัสดีค่ะ ดิฉัน นิธิวดี ศิริรจน์ฺ 👋
 
-**[Software Developer | Full-Stack Developer | AI Enthusiast | CS Student]**
+Software Developer | Full-Stack Developer | AI Enthusiast | CS Student
 
 ยินดีต้อนรับสู่หน้า GitHub ของผมครับ! ที่นี่เป็นที่รวบรวมโปรเจกต์ การทดลองเขียนโค้ด และสิ่งที่กำลังเรียนรู้ในสายงานเทคโนโลยี
 
 ---
 
-### 👨‍💻 เกี่ยวกับผม (About Me) 
+### 👨‍💻 เกี่ยวกับฉัน (About Me) 
 
-- 🔭 **กำลังพัฒนา:** [เว็บแอปพลิเคชันและระบบจัดการข้อมูลด้วย  Next.js และ Python]
-- 🌱 **กำลังเรียนรู้:** [Cloud Computing, Docker และ Generative AI]
-- 💬 **พูดคุยแลกเปลี่ยนเรื่อง:** [Web Development, UI/UX, System Design]
-- 📫 **ช่องทางติดต่อ:** [nithiwadee.s@ku.th] ห
-- ⚡ **เกร็ดเล็กน้อย:** [ศึกษษการพัฒนาของ AI ที่คิดว่าใช้และตอบโจทย์ตัวเองที่สุด]
+- 🔭 **กำลังพัฒนา:** เว็บแอปพลิเคชันและระบบจัดการข้อมูลด้วย  Next.js และ Python
+- 🌱 **กำลังเรียนรู้:** Cloud Computing, Docker และ Generative AI
+- 💬 **พูดคุยแลกเปลี่ยนเรื่อง:** Web Development, UI/UX, System Design
+- 📫 **ช่องทางติดต่อ:** nithiwadee.s@ku.th
+- ⚡ **เกร็ดเล็กน้อย:** ศึกษษการพัฒนาของ AI ที่คิดว่าใช้และตอบโจทย์ตัวเองที่สุด
 
 ---
 
@@ -40,11 +40,11 @@
 
 ### 🚀 โปรเจกต์แนะนำ (Featured Projects)
 
-1. **[GeoTrack - ระบบติดตามตำแหน่งแบบเรียลไทม์](https://github.com/nithiwadees-commits)**
+1. ** GeoTrack - ระบบติดตามตำแหน่งแบบเรียลไทม์ (https://github.com/nithiwadees-commits)**
    - เว็บแอปพลิเคชันสำหรับปักหมุดและแชร์พิกัดสถานที่แบบเรียลไทม์
    - *Tech used: React, Node.js, Leaflet Map*
 
-2. **[RoleMatch - ระบบวิเคราะห์และจับคู่ตำแหน่งงานด้วย AI](https://github.com/nithiwadees-commits)**
+2. ** RoleMatch - ระบบวิเคราะห์และจับคู่ตำแหน่งงานด้วย AI (https://github.com/nithiwadees-commits)**
    - เครื่องมือช่วยวิเคราะห์เรซูเม่และแนะนำตำแหน่งงานที่เหมาะสมกับทักษะ
    - *Tech used: Python, FastAPI, OpenAI API*
 
