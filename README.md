@@ -15,7 +15,7 @@ Software Developer | Full-Stack Developer | AI Enthusiast | CS Student
 - 🌱 **กำลังเรียนรู้:** Cloud Computing, Docker และ Generative AI
 - 💬 **พูดคุยแลกเปลี่ยนเรื่อง:** Web Development, UI/UX, System Design
 - 📫 **ช่องทางติดต่อ:** nithiwadee.s@ku.th
-- ⚡ **เกร็ดเล็กน้อย:** ศึกษษการพัฒนาของ AI ที่คิดว่าใช้และตอบโจทย์ตัวเองที่สุด
+- ⚡ **เกร็ดเล็กน้อย:** ศึกษาการพัฒนาของ AI ที่คิดว่าใช้และตอบโจทย์ตัวเองที่สุด
 
 ---
 
